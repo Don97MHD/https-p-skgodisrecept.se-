@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "chokladagg-och-praliner",
+    "filterTerm": "choklad",
+    "name": "Chokladägg & Praliner",
+    "headline": "Hemgjorda Chokladägg & Praliner",
+    "meta_description": "Lär dig göra egna chokladägg, praliner och tryfflar. Perfekta recept för ett lyxigt påskbord.",
+    "body": "<p>Skapa magi i köket med våra recept på hemgjorda chokladägg, fyllda praliner och lena tryfflar. Imponera på familj och vänner med godsaker som är både vackra och otroligt goda.</p>"
+  },
+  {
+    "slug": "kola-och-knack",
+    "filterTerm": "kola",
+    "name": "Kola, Knäck & Fudge",
+    "headline": "Seg Kola och Krämig Fudge till Påsk",
+    "meta_description": "Upptäck de bästa recepten på seg påskkola, knäck med mandel och krämig fudge i olika smaker.",
+    "body": "<p>Från klassisk gräddkola till spännande fudge-varianter med citron eller choklad. Här hittar du de sega och söta favoriterna som hör påsken till.</p>"
+  },
+  {
+    "slug": "marsipan-och-mandelmassa",
+    "filterTerm": "marsipan",
+    "name": "Marsipan & Mandelmassa",
+    "headline": "Kreativt med Marsipan och Mandelmassa",
+    "meta_description": "Gör egna marsipanfigurer, fyllda ägg och andra godsaker med mandelmassa. Enkla och roliga påskrecept.",
+    "body": "<p>Låt kreativiteten flöda! Här visar vi hur du gör allt från klassiska marsipanägg till vackra figurer som blir en prydnad på påskbordet.</p>"
+  },
+  {
+    "slug": "paskkakor-och-bakelser",
+    "filterTerm": "påsktårta",
+    "name": "Påskkakor & Bakelser",
+    "headline": "Festliga Kakor och Tårtor till Påsk",
+    "meta_description": "Recept på vackra påsktårtor, söta småkakor och andra bakverk som passar perfekt till påskfikat.",
+    "body": "<p>Även om godiset står i centrum, så är ett påskfika inte komplett utan en vacker kaka eller tårta. Här hittar du de bästa recepten som passar firandet.</p>"
+  },
+  {
+    "slug": "glutenfritt-paskgodis",
+    "filterTerm": "glutenfritt",
+    "name": "Glutenfritt Påskgodis",
+    "headline": "Glutenfritt Godis till Påsk",
+    "meta_description": "Njut av påsken med våra ljuvliga recept på glutenfritt påskgodis. Lika gott, för alla.",
+    "body": "<p>Här samlar vi alla våra recept på påskgodis som är naturligt fria från gluten, så att alla kan njuta av godsakerna under helgen.</p>"
+  }
+]

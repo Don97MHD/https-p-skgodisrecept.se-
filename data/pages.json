@@ -1,0 +1,34 @@
+[
+  {
+    "key": "about",
+    "path": "/om-oss",
+    "title": "Om Stefan Lindberg | Påskgodis Recept",
+    "meta_description": "Lär känna kocken Stefan Lindberg, experten bakom alla recept på påskgodis. Upptäck hans passion för sötsaker och svenska traditioner.",
+    "headline": "Passion för det söta hantverket",
+    "body": "<p>Hej och välkommen! Mitt namn är Stefan Lindberg, och jag är den passionerade kreatören bakom varje recept du hittar här. Min resa började inte i ett konditori, utan i det enkla hemmaköket där jag lärde mig att de bästa smakerna kommer från bra råvaror och en stor dos tålamod.</p><p>På den här sidan delar jag med mig av mina allra bästa recept på påskgodis – från klassisk kola och knäck till moderna chokladpraliner och marsipanfigurer. Mitt mål är att visa att alla kan skapa magiskt gott godis hemma. Jag hoppas inspirera dig att hitta glädjen i det söta hantverket. Glad påskbakning!</p>"
+  },
+  {
+    "key": "contact",
+    "path": "/kontakta-oss",
+    "title": "Kontakta Stefan Lindberg | Påskgodis Recept",
+    "meta_description": "Har du frågor, förslag eller vill du samarbeta? Här hittar du alla sätt att kontakta Stefan Lindberg. Jag ser fram emot att höra från dig!",
+    "headline": "Låt oss prata mat!",
+    "body": "<p class='text-xl text-gray-600'>Jag älskar att höra från er läsare! Oavsett om du har en fråga om ett recept, ett förslag på påskgodis du vill att jag ska skapa, eller bara vill dela med dig av din framgång i köket, så är du varmt välkommen att höra av dig. Nedan hittar du de bästa sätten att nå mig.</p>"
+  },
+  {
+    "key": "privacy",
+    "path": "/integritetspolicy",
+    "title": "Integritetspolicy | Påskgodis Recept",
+    "meta_description": "Läs om hur vi hanterar och skyddar dina personuppgifter när du besöker påskgodisrecept.se. Din integritet är viktig för oss.",
+    "headline": "Integritetspolicy",
+    "body": "<h2>1. Introduktion</h2><p>Denna integritetspolicy beskriver hur Påskgodis Recept samlar in, använder och skyddar den information du ger oss när du använder denna webbplats. Vi är fast beslutna att säkerställa att din integritet skyddas.</p><h2>2. Vilken information vi samlar in</h2><p>Vi kan samla in följande information via recensioner eller kontaktformulär: Namn, E-postadress, och annan information relevant för din förfrågan.</p><h2>3. Cookies</h2><p>Vår webbplats använder cookies för att analysera trafik via Google Analytics. En cookie är en liten fil som ber om tillåtelse att placeras på din dators hårddisk. Detta hjälper oss att analysera data om webbplatstrafik och förbättra vår webbplats för att anpassa den till kundernas behov.</p><h2>4. Hur vi använder informationen</h2><p>Vi använder denna information för att förstå dina behov och ge dig en bättre service, och i synnerhet av följande skäl: Intern registerhållning, Förbättring av våra produkter och tjänster, Analys av webbplatstrafik.</p><h2>5. Säkerhet</h2><p>Vi är fast beslutna att säkerställa att din information är säker. För att förhindra obehörig åtkomst eller avslöjande har vi infört lämpliga fysiska, elektroniska och administrativa förfaranden för att skydda och säkra den information vi samlar in online.</p>"
+  },
+  {
+    "key": "terms",
+    "path": "/anvandarvillkor",
+    "title": "Användarvillkor | Påskgodis Recept",
+    "meta_description": "Läs användarvillkoren för påskgodisrecept.se. Genom att använda vår webbplats accepterar du dessa villkor.",
+    "headline": "Användarvillkor",
+    "body": "<h2>1. Godkännande av villkor</h2><p>Välkommen till Påskgodis Recept. Genom att besöka och använda denna webbplats (påskgodisrecept.se), accepterar du att följa och vara bunden av följande användarvillkor. Om du inte samtycker till dessa villkor, vänligen använd inte webbplatsen.</p><h2>2. Användning av innehåll</h2><p>Allt innehåll på denna webbplats, inklusive texter, bilder och recept, tillhör Påskgodis Recept och skyddas av upphovsrättslagen. Innehållet är avsett för personligt, icke-kommersiellt bruk. All annan användning, inklusive reproduktion, modifiering eller distribution utan föregående skriftligt medgivande, är strängt förbjuden.</p><h2>3. Användargenererat innehåll</h2><p>När du skickar in en recension eller kommentar på webbplatsen ger du oss en icke-exklusiv, royaltyfri, evig rätt att använda, reproducera och publicera detta innehåll. Du är ansvarig för att ditt innehåll inte bryter mot lag eller tredje parts rättigheter.</p><h2>4. Ansvarsfriskrivning</h2><p>Alla recept och guider tillhandahålls i befintligt skick utan garantier. Vi kan inte hållas ansvariga för resultatet av att följa recepten eller för eventuella skador som kan uppstå.</p>"
+  }
+]

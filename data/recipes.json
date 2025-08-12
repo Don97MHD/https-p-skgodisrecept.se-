@@ -1,0 +1,394 @@
+[
+  {
+    "id": "mockatryffel",
+    "name": "Intensiva Mockatryfflar med Mörk Choklad",
+    "slug": "mockatryffel",
+    "elsaIntro": "<p>Kombinationen av djupt rostat kaffe och mörk choklad är en tidlös klassiker. I detta recept skapar vi en silkeslen ganache som får mogna över natten för att utveckla maximal smak. Resultatet är en intensiv och elegant tryffel, perfekt som avslutning på en middag eller som en lyxig gåva.</p>",
+    "image": [
+      {
+        "id": "mockatryffel-img",
+        "url": "/images/recipes/mockatryfflar.jpg",
+        "alt": "Eleganta mockatryfflar rullade i kakao, serverade på ett mörkt skifferfat."
+      }
+    ],
+    "steps": [
+      { "step": "Finhacka den mörka chokladen och lägg den i en värmetålig skål." },
+      { "step": "Värm upp vispgrädden i en kastrull tills den precis börjar sjuda. Ta av från värmen och rör ner det starka kaffet och smöret tills smöret smält." },
+      { "step": "Häll den varma gräddblandningen över chokladen. Låt stå i 2-3 minuter och rör sedan försiktigt från mitten och utåt tills du har en slät och glansig ganache." },
+      { "step": "Låt ganachen svalna och ställ den sedan i kylen, täckt med plastfolie, i minst 4 timmar eller gärna över natten." },
+      { "step": "Använd en liten sked eller ett kuljärn för att forma små bollar av den kalla ganachen. Rulla dem snabbt mellan händerna." },
+      { "step": "Rulla de färdiga tryfflarna i kakaopulver. Förvara svalt i en lufttät burk." }
+    ],
+    "servings": "Ca 30 tryfflar",
+    "cookingTime": "PT10M",
+    "prepTime": "PT25M",
+    "totalTime": "PT4H35M",
+    "description": "<h3>En dröm för kaffeälskaren</h3><p>Detta recept på <strong>mockatryffel</strong> ger en intensiv och vuxen smakupplevelse. Perfekt för påskens gottebord eller som en hemgjord present. Hemligheten ligger i högkvalitativ choklad och riktigt starkt kaffe.</p>",
+    "recipeCategory": "Chokladgodis",
+    "recipeCuisine": "Svensk",
+    "keywords": "mockatryffel, kaffetryffel, chokladtryffel, påskgodis, recept mockatryffel, hemgjort godis",
+    "datePublished": "2025-03-10",
+    "ingredients": [
+      { "amount": "200", "unit": "g", "product": "mörk choklad (70%)" },
+      { "amount": "1.5", "unit": "dl", "product": "vispgrädde" },
+      { "amount": "25", "unit": "g", "product": "osaltat smör" },
+      { "amount": "3", "unit": "msk", "product": "starkt, färskbryggt kaffe (espresso)" },
+      { "product": "Att rulla i:" },
+      { "amount": "1", "unit": "dl", "product": "kakao av hög kvalitet" }
+    ],
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "ratingCount": "8" },
+    "nutrition": { "@type": "NutritionInformation", "calories": "Cirka 60 kcal per tryffel" }
+  },
+  {
+    "id": "citronfudge",
+    "name": "Krämig Citronfudge med Vit Choklad",
+    "slug": "citronfudge",
+    "elsaIntro": "<p>Denna fudge är den perfekta balansen mellan sött och syrligt. Den vita chokladens krämighet möter den friska smaken från färsk citron. Det är ett otroligt enkelt recept att lyckas med och resultatet blir en len och lyxig fudge som smälter i munnen. En ljus och fräsch favorit till påsk.</p>",
+    "image": [
+      { "id": "citronfudge-img", "url": "/images/recipes/citronfudge.jpg", "alt": "Perfekt skurna kuber av ljusgul citronfudge på ett vitt fat." }
+    ],
+    "steps": [
+      { "step": "Klä en form (ca 20x20 cm) med bakplåtspapper." },
+      { "step": "Lägg vit choklad, kondenserad mjölk och smör i en värmetålig skål. Smält över ett vattenbad på låg värme under omrörning tills allt är helt slätt." },
+      { "step": "Ta skålen från värmen. Rör ner finrivet citronskal och citronsaft. Blanda snabbt till en jämn smet." },
+      { "step": "Häll smeten i den förberedda formen och bred ut den jämnt." },
+      { "step": "Låt fudgen stelna i kylskåp i minst 3-4 timmar, eller tills den är helt fast." },
+      { "step": "Lyft upp fudgen med hjälp av bakplåtspappret och skär den i små, fyrkantiga bitar. Förvara i kylskåp." }
+    ],
+    "servings": "Ca 40 bitar",
+    "cookingTime": "PT15M",
+    "prepTime": "PT10M",
+    "totalTime": "PT3H25M",
+    "description": "<h3>Enkel och oemotståndlig fudge</h3><p>Detta recept på <strong>citronfudge</strong> är perfekt när du vill göra något snabbt, enkelt och otroligt gott. Den friska citrussmaken gör den till en favorit på påskbordet. Använd alltid färskpressad citron för bästa resultat.</p>",
+    "recipeCategory": "Kola & Fudge",
+    "recipeCuisine": "Internationell",
+    "keywords": "citronfudge, fudge, lemon fudge, påskgodis, vit choklad, enkelt godis",
+    "datePublished": "2025-03-12",
+    "ingredients": [
+      { "amount": "300", "unit": "g", "product": "vit choklad av god kvalitet" },
+      { "amount": "1", "unit": "burk", "product": "sötad kondenserad mjölk (ca 397g)" },
+      { "amount": "30", "unit": "g", "product": "smör" },
+      { "amount": "2", "unit": "st", "product": "finrivet skal från citroner (ekologiska)" },
+      { "amount": "4", "unit": "msk", "product": "färskpressad citronsaft" }
+    ],
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.8", "ratingCount": "12" },
+    "nutrition": { "@type": "NutritionInformation", "calories": "Cirka 90 kcal per bit" }
+  },
+  {
+    "id": "branda-mandlar-apelsin",
+    "name": "Brända Mandlar med Apelsin och Havssalt",
+    "slug": "branda-mandlar-apelsin",
+    "elsaIntro": "<p>Doften av nygjorda brända mandlar är oslagbar och för tankarna till marknader och tivolin. I denna version lyfter vi den klassiska smaken med finrivet apelsinskal och en nypa flingsalt, vilket ger en underbar brytning mot sötman. Ett beroendeframkallande och enkelt godis att göra själv.</p>",
+    "image": [
+      { "id": "branda-mandlar-img", "url": "/images/recipes/branda-mandlar-apelsin.jpg", "alt": "En hög med krispiga, karamelliserade brända mandlar med apelsinskal." }
+    ],
+    "steps": [
+      { "step": "Blanda sötmandel, socker, vatten och apelsinskal i en tjockbottnad stekpanna eller kastrull." },
+      { "step": "Koka upp på medelhög värme under omrörning. Låt koka tills vattnet har avdunstat och sockret kristalliseras och blir sandigt runt mandlarna." },
+      { "step": "Fortsätt att röra konstant. Sockret kommer nu att börja smälta igen och bli till en mörk, gyllene karamell som täcker mandlarna. Detta steg kräver tålamod." },
+      { "step": "När alla mandlar är täckta av blank karamell, häll snabbt ut dem på ett bakplåtspapper." },
+      { "step": "Separera mandlarna med hjälp av två gafflar medan de fortfarande är varma. Var försiktig, karamellen är extremt het!" },
+      { "step": "Strö över flingsalt och låt svalna helt. Förvara i en lufttät burk." }
+    ],
+    "servings": "Ca 300g",
+    "cookingTime": "PT20M",
+    "prepTime": "PT5M",
+    "totalTime": "PT25M",
+    "description": "<h3>En klassiker med en twist</h3><p>Lär dig göra perfekta <strong>brända mandlar</strong> hemma. Detta recept smaksatt med <strong>apelsin</strong> är en garanterad succé och ett måste bland påskens godsaker. Havssaltet på slutet balanserar smakerna perfekt.</p>",
+    "recipeCategory": "Nötter & Mandel",
+    "recipeCuisine": "Svensk",
+    "keywords": "brända mandlar, kanderade mandlar, apelsin, påskgodis, snacks, recept",
+    "datePublished": "2025-03-14",
+    "ingredients": [
+      { "amount": "200", "unit": "g", "product": "sötmandel" },
+      { "amount": "2", "unit": "dl", "product": "strösocker" },
+      { "amount": "1", "unit": "dl", "product": "vatten" },
+      { "amount": "1", "unit": "st", "product": "finrivet skal från en apelsin" },
+      { "amount": "1", "unit": "tsk", "product": "flingsalt" }
+    ],
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "5.0", "ratingCount": "15" },
+    "nutrition": { "@type": "NutritionInformation", "calories": "Cirka 150 kcal per portion (30g)" }
+  },
+  {
+    "id": "marsipanlimpa",
+    "name": "Klassisk Marsipanlimpa med Nougat",
+    "slug": "marsipanlimpa",
+    "elsaIntro": "<p>Marsipanlimpan, ofta kallad 'dammsugare' utan sitt gröna hölje, är en älskad klassiker. I sin renaste form är det en enkel men otroligt elegant konfekt. En kärna av len nougat, omsluten av högkvalitativ mandelmassa, och ändarna doppade i fin mörk choklad. Det är ett hantverk som är förvånansvärt enkelt att bemästra.</p>",
+    "image": [
+      { "id": "marsipanlimpa-img", "url": "/images/recipes/marsipanlimpa-nougat.jpg", "alt": "En elegant marsipanlimpa med nougatkärna, med ändarna doppade i mörk choklad." }
+    ],
+    "steps": [
+      { "step": "Arbeta mandelmassan mjuk och smidig. Om den är hård kan du knåda den med en liten skvätt vatten eller florsocker." },
+      { "step": "Forma nougaten till en lång, jämn rulle, cirka 2 cm i diameter." },
+      { "step": "Kavla eller tryck ut mandelmassan till en rektangulär platta, cirka 0.5 cm tjock, mellan två ark bakplåtspapper." },
+      { "step": "Lägg nougatrullen i mitten av mandelmassan och vik över kanterna så att den omsluts helt. Rulla försiktigt till en jämn limpa/rulle." },
+      { "step": "Plasta in rullen och låt den stelna i kylen i minst en timme." },
+      { "step": "Smält den mörka chokladen över ett vattenbad. Skär marsipanlimpan i önskad längd och doppa ändarna i den smälta chokladen. Låt stelna på ett bakplåtspapper." }
+    ],
+    "servings": "1 limpa (ca 10-12 bitar)",
+    "cookingTime": "PT10M",
+    "prepTime": "PT20M",
+    "totalTime": "PT1H30M",
+    "description": "<h3>En svensk konfektklassiker</h3><p>Denna <strong>marsipanlimpa</strong> med nougat är ett måste på det svenska gottebordet, speciellt till påsk och jul. Receptet är enkelt att följa och resultatet blir professionellt och ljuvligt gott.</p>",
+    "recipeCategory": "Marsipan & Mandelmassa",
+    "recipeCuisine": "Svensk",
+    "keywords": "marsipanlimpa, marsipanrulle, marsipan, nougat, påskgodis, dammsugare",
+    "datePublished": "2025-03-15",
+    "ingredients": [
+      { "amount": "300", "unit": "g", "product": "mandelmassa av god kvalitet" },
+      { "amount": "150", "unit": "g", "product": "nougat" },
+      { "amount": "50", "unit": "g", "product": "mörk choklad (70%)" }
+    ],
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.7", "ratingCount": "5" },
+    "nutrition": { "@type": "NutritionInformation", "calories": "Cirka 120 kcal per bit" }
+  },
+  {
+    "id": "pasktarta-med-marang-och-lemoncurd",
+    "name": "Festlig Påsktårta i Långpanna med Maräng",
+    "slug": "pasktarta-med-marang-och-lemoncurd",
+    "elsaIntro": "<p>En påsk utan en riktigt festlig tårta är otänkbart. Denna skapelse är min absoluta favorit för det stora påskfirandet. Den bakas i långpanna, vilket gör den perfekt för många gäster. Kombinationen av en saftig vaniljbotten, ett krispigt och segt marängtäcke och en syrlig lemon curd är helt enkelt oslagbar.</p>",
+    "image": [
+      { "id": "pasktarta-langpanna-img", "url": "/images/recipes/pasktarta-langpanna.jpg", "alt": "En vacker påsktårta i långpanna, dekorerad med marängtoppar och små chokladägg." }
+    ],
+    "steps": [
+      { "step": "Sätt ugnen på 175°C. Klä en långpanna (ca 30x40 cm) med bakplåtspapper." },
+      { "step": "Bottnen: Vispa ägg och socker ljust och pösigt. Blanda de torra ingredienserna och vänd ner dem i smeten växelvis med vattnet. Bred ut smeten jämnt i långpannan." },
+      { "step": "Marängen: Vispa äggvitorna till ett hårt skum. Tillsätt sockret lite i taget under fortsatt vispning tills du har en blank och styv maräng." },
+      { "step": "Klicka eller spritsa ut marängen över sockerkakssmeten för att skapa ett vackert, vågigt mönster." },
+      { "step": "Grädda i nedre delen av ugnen i ca 25-30 minuter. Marängen ska få en lätt gyllene färg. Låt kakan svalna helt." },
+      { "step": "Montering: Dela kakan på mitten. Bred ett lager vispad grädde på ena bottnen och klicka över rikligt med lemon curd." },
+      { "step": "Lägg den andra halvan ovanpå. Dekorera med extra grädde, mer lemon curd, och påskgodis. Servera!" }
+    ],
+    "servings": "Ca 20-24 bitar",
+    "cookingTime": "PT30M",
+    "prepTime": "PT30M",
+    "totalTime": "PT1H",
+    "description": "<h3>Den Perfekta Tårtan för Påskfirandet</h3><p>Denna <strong>påsktårta i långpanna</strong> är den ultimata lösningen för påskens fikabord. Marängtäcket ger en härlig texturkontrast till den saftiga vaniljbotten, och den syrliga lemon curden lyfter hela upplevelsen.</p>",
+    "recipeCategory": "Påskkakor & Bakelser",
+    "recipeCuisine": "Svensk",
+    "keywords": "påsktårta, påsktårta i långpanna, tårta till påsk, påskfika, marängtårta",
+    "datePublished": "2025-03-18",
+    "ingredients": [
+      { "product": "Saftig botten:" },
+      { "amount": "4", "unit": "st", "product": "ägg" },
+      { "amount": "3", "unit": "dl", "product": "socker" },
+      { "amount": "4", "unit": "dl", "product": "vetemjöl" },
+      { "amount": "2", "unit": "tsk", "product": "bakpulver" },
+      { "amount": "1.5", "unit": "dl", "product": "kallt vatten" },
+      { "product": "Marängtäcke:" },
+      { "amount": "4", "unit": "st", "product": "äggvitor" },
+      { "amount": "3", "unit": "dl", "product": "strösocker" },
+      { "product": "Fyllning & Garnering:" },
+      { "amount": "5", "unit": "dl", "product": "vispgrädde" },
+      { "amount": "2", "unit": "dl", "product": "lemon curd" },
+      { "amount": "1", "unit": "dl", "product": "påskgodis (t.ex. små chokladägg)" }
+    ],
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.8", "ratingCount": "18" },
+    "nutrition": { "@type": "NutritionInformation", "calories": "Cirka 320 kcal per bit" }
+  },
+  {
+    "id": "marmeladgodis-aprikos-vanilj",
+    "name": "Hemgjort Marmeladgodis med Aprikos & Vanilj",
+    "slug": "marmeladgodis-aprikos-vanilj",
+    "elsaIntro": "<p>Att göra sitt eget marmeladgodis, eller Pâte de Fruits som det heter på franska, är en process som ger ett otroligt lyxigt och smakrikt resultat. Den intensiva fruktsmaken från aprikospurén balanseras vackert med äkta vanilj. Dessa små, sockrade kuber är en sofistikerad del av påskens gottebord.</p>",
+    "image": [
+      { "id": "marmeladgodis-img", "url": "/images/recipes/marmeladgodis-aprikos.jpg", "alt": "Vackra, sockrade kuber av hemgjort marmeladgodis med aprikos." }
+    ],
+    "steps": [
+      { "step": "Klä en form (ca 15x15 cm) med oljad plastfolie." },
+      { "step": "Blanda aprikospuré, glykossirap, citronsaft och hälften av sockret i en kastrull. Skrapa ur fröna ur vaniljstången och lägg i både frön och stång." },
+      { "step": "Blanda resten av sockret med pektinet i en separat skål. Detta är viktigt för att undvika klumpar." },
+      { "step": "Värm fruktblandningen till ca 50°C. Vispa sedan ner socker- och pektinblandningen. Koka upp under konstant omrörning." },
+      { "step": "Koka blandningen till 107°C (använd en digital termometer). Ta kastrullen från värmen och plocka ur vaniljstången." },
+      { "step": "Häll snabbt smeten i den förberedda formen. Låt stelna i rumstemperatur i minst 6 timmar, eller över natten." },
+      { "step": "Stjälp upp den stelnade marmeladen och skär den i kuber. Rulla kuberna i strösocker. Låt torka lite innan de läggs i en burk." }
+    ],
+    "servings": "Ca 50 bitar",
+    "cookingTime": "PT25M",
+    "prepTime": "PT15M",
+    "totalTime": "PT6H40M",
+    "description": "<h3>En elegant fransk klassiker</h3><p>Detta recept på <strong>marmeladgodis</strong> (Pâte de Fruits) ger ett professionellt resultat hemma. Nyckeln är att använda pektin och en termometer för att få den perfekta, fasta konsistensen. En ljuvlig kombination av <strong>aprikos</strong> och vanilj.</p>",
+    "recipeCategory": "Frukt & Marmelad",
+    "recipeCuisine": "Fransk",
+    "keywords": "marmeladgodis, pâte de fruits, fruktgodis, aprikos, påskgodis, recept",
+    "datePublished": "2025-03-20",
+    "ingredients": [
+      { "amount": "250", "unit": "g", "product": "aprikospuré (osötad)" },
+      { "amount": "275", "unit": "g", "product": "strösocker" },
+      { "amount": "75", "unit": "g", "product": "glykossirap" },
+      { "amount": "8", "unit": "g", "product": "pektin (gult pektin för konfektyr)" },
+      { "amount": "1", "unit": "tsk", "product": "citronsaft" },
+      { "amount": "1", "unit": "st", "product": "vaniljstång" },
+      { "product": "Att rulla i:" },
+      { "amount": "2", "unit": "dl", "product": "strösocker" }
+    ],
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "ratingCount": "4" },
+    "nutrition": { "@type": "NutritionInformation", "calories": "Cirka 40 kcal per bit" }
+  },
+  {
+    "id": "mockatryffel",
+    "name": "Klassiska Mockatryfflar",
+    "slug": "mockatryffel",
+    "elsaIntro": "<p>Kombinationen av djupt rostat kaffe och mörk choklad är en tidlös klassiker. I detta recept skapar vi en silkeslen ganache som får mogna över natten för att utveckla maximal smak. Resultatet är en intensiv och elegant tryffel, perfekt som avslutning på en middag eller som en lyxig gåva.</p>",
+    "image": [{ "id": "mockatryffel-img", "url": "/images/recipes/klassiska-mockatryfflar.jpg", "alt": "Eleganta mockatryfflar rullade i kakao." }],
+    "steps": [
+      { "step": "Finhacka den mörka chokladen och lägg i en värmetålig skål." },
+      { "step": "Värm upp grädden i en kastrull tills den precis börjar sjuda. Häll den varma grädden över chokladen och tillsätt det starka kaffet." },
+      { "step": "Låt stå i 2-3 minuter, rör sedan från mitten och utåt till en slät och glansig ganache. Rör i smöret." },
+      { "step": "Låt ganachen svalna och stelna i kylen i minst 4 timmar." },
+      { "step": "Forma små bollar och rulla dem i kakao. Förvara svalt." }
+    ],
+    "servings": "Ca 30 st", "cookingTime": "PT10M", "prepTime": "PT20M", "totalTime": "PT4H30M",
+    "description": "<h3>En dröm för kaffeälskaren</h3><p>Detta recept på <strong>mockatryffel</strong> är en hyllning till den rika kaffesmaken, perfekt balanserad med mörk choklad. Ett måste på påskens gottebord.</p>",
+    "recipeCategory": "Chokladägg & Praliner", "recipeCuisine": "Svensk", "keywords": "mockatryffel, kaffetryffel, påskgodis, recept", "datePublished": "2025-03-01",
+    "ingredients": [
+      { "amount": "200", "unit": "g", "product": "mörk choklad (70%)" },
+      { "amount": "1.5", "unit": "dl", "product": "vispgrädde" },
+      { "amount": "3", "unit": "msk", "product": "starkt, kallt kaffe" },
+      { "amount": "25", "unit": "g", "product": "smör" },
+      { "amount": "1", "unit": "dl", "product": "kakao att rulla i" }
+    ],
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "ratingCount": "1" }
+  },
+  {
+    "id": "marsipanlimpa",
+    "name": "Elegant Marsipanlimpa med Nougat",
+    "slug": "marsipanlimpa",
+    "elsaIntro": "<p>Marsipanlimpan är en älskad svensk klassiker. I sin renaste form är det en enkel men otroligt elegant konfekt. En kärna av len nougat, omsluten av högkvalitativ mandelmassa, och ändarna doppade i fin mörk choklad. Ett hantverk som är förvånansvärt enkelt att bemästra.</p>",
+    "image": [{ "id": "marsipanlimpa-img", "url": "/images/recipes/marsipanlimpa-nougat.jpg", "alt": "En elegant marsipanlimpa med nougatkärna." }],
+    "steps": [
+      { "step": "Forma nougaten till en lång, jämn rulle, cirka 2 cm i diameter." },
+      { "step": "Kavla ut mandelmassan till en rektangulär platta, cirka 0.5 cm tjock, mellan två ark bakplåtspapper." },
+      { "step": "Lägg nougatrullen i mitten av mandelmassan och vik över kanterna så den omsluts helt. Rulla försiktigt till en jämn limpa." },
+      { "step": "Låt stelna i kylen i minst en timme." },
+      { "step": "Smält chokladen. Skär limpan i bitar och doppa ändarna i chokladen. Låt stelna." }
+    ],
+    "servings": "Ca 12 bitar", "cookingTime": "PT10M", "prepTime": "PT20M", "totalTime": "PT1H30M",
+    "description": "<h3>En svensk konfektklassiker</h3><p>Denna <strong>marsipanlimpa</strong> med nougat, ibland kallad <strong>marsipanrulle</strong>, är ett måste på det svenska gottebordet, speciellt till påsk. Enkel att göra med ett professionellt resultat.</p>",
+    "recipeCategory": "Marsipan & Mandelmassa", "recipeCuisine": "Svensk", "keywords": "marsipanlimpa, marsipanrulle, marsipan, nougat, påskgodis", "datePublished": "2025-03-02",
+    "ingredients": [
+      { "amount": "300", "unit": "g", "product": "mandelmassa av god kvalitet" },
+      { "amount": "150", "unit": "g", "product": "nougat" },
+      { "amount": "50", "unit": "g", "product": "mörk choklad (70%)" }
+    ],
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.8", "ratingCount": "1" }
+  },
+  {
+    "id": "tryffel-med-mandel-och-vanilj",
+    "name": "Vit Chokladtryffel med Mandel & Vanilj",
+    "slug": "tryffel-med-mandel-och-vanilj",
+    "elsaIntro": "<p>Dessa tryfflar är rena drömmen. Den vita chokladens söta krämighet balanseras av rostade mandelflarn och äkta vanilj. En lyxig och ljus pralin som passar perfekt på påskbordet.</p>",
+    "image": [{ "id": "tryffel-mandel-vanilj-img", "url": "/images/recipes/tryffel-mandel-vanilj.jpg", "alt": "Vita chokladtryfflar rullade i mandelflarn." }],
+    "steps": [
+      { "step": "Finhacka den vita chokladen. Värm grädden med urskrapade vaniljfrön tills den sjuder." },
+      { "step": "Häll den varma grädden över chokladen, låt stå en minut, rör sedan till en slät ganache." },
+      { "step": "Låt stelna i kylen i 4 timmar. Forma bollar och rulla dem i rostade mandelflarn." }
+    ],
+    "servings": "Ca 25 st", "cookingTime": "PT10M", "prepTime": "PT15M", "totalTime": "PT4H25M",
+    "description": "<h3>En elegant och krämig tryffel</h3><p>Recept på lyxig <strong>vit chokladtryffel</strong> smaksatt med äkta vanilj och rullad i rostad mandel. En given favorit bland påskens godsaker.</p>",
+    "recipeCategory": "Chokladägg & Praliner", "recipeCuisine": "Svensk", "keywords": "vit chokladtryffel, tryffel, mandel, vanilj, påskgodis", "datePublished": "2025-03-03",
+    "ingredients": [
+      { "amount": "200", "unit": "g", "product": "vit choklad" },
+      { "amount": "1", "unit": "dl", "product": "vispgrädde" },
+      { "amount": "1", "unit": "st", "product": "vaniljstång" },
+      { "amount": "1", "unit": "dl", "product": "rostade mandelflarn" }
+    ],
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "ratingCount": "1" }
+  },
+  {
+    "id": "vit-chokladtryffel-med-lime",
+    "name": "Fräsch Vit Chokladtryffel med Lime",
+    "slug": "vit-chokladtryffel-med-lime",
+    "elsaIntro": "<p>En frisk fläkt på godisbordet! Sötman från vit choklad möter den syrliga och aromatiska smaken från färsk lime. En otroligt uppfriskande och elegant tryffel som är enkel att göra.</p>",
+    "image": [{ "id": "vit-chokladtryffel-lime-img", "url": "/images/recipes/vit-chokladtryffel-lime.jpg", "alt": "Vita chokladtryfflar dekorerade med rivet limeskal." }],
+    "steps": [
+      { "step": "Finhacka vit choklad. Värm grädden tills den sjuder. Häll över chokladen." },
+      { "step": "Rör till en slät ganache. Blanda i finrivet limeskal och limesaft." },
+      { "step": "Låt stelna i kylen i 4 timmar. Forma bollar och rulla i florsocker eller mer limeskal." }
+    ],
+    "servings": "Ca 25 st", "cookingTime": "PT10M", "prepTime": "PT15M", "totalTime": "PT4H25M",
+    "description": "<h3>En frisk och syrlig pralin</h3><p>Ett enkelt recept på <strong>vit chokladtryffel med lime</strong>. Den perfekta balansen mellan sött och syrligt gör denna tryffel till en favorit på våren och till påsk.</p>",
+    "recipeCategory": "Chokladägg & Praliner", "recipeCuisine": "Svensk", "keywords": "vit chokladtryffel, lime, påskgodis, recept", "datePublished": "2025-03-04",
+    "ingredients": [
+      { "amount": "200", "unit": "g", "product": "vit choklad" },
+      { "amount": "0.75", "unit": "dl", "product": "vispgrädde" },
+      { "amount": "2", "unit": "st", "product": "rivet skal och saft från lime" }
+    ],
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.8", "ratingCount": "1" }
+  },
+  {
+    "id": "not-frukt-chokladbollar",
+    "name": "Lyxiga Chokladbollar med Nötter & Frukt",
+    "slug": "not-frukt-chokladbollar",
+    "elsaIntro": "<p>Detta är en uppgraderad version av den klassiska chokladbollen. Genom att tillsätta rostade hasselnötter och söta aprikoser får den en fantastisk textur och en djupare, mer komplex smak. En perfekt liten munsbit till påskfikat.</p>",
+    "image": [{ "id": "not-frukt-chokladbollar-img", "url": "/images/recipes/not-frukt-chokladbollar.jpg", "alt": "Chokladbollar rullade i hackade hasselnötter." }],
+    "steps": [
+      { "step": "Rosta hasselnötterna i en torr panna. Gnugga bort skalen och hacka dem grovt." },
+      { "step": "Mixa havregryn, smör, socker, kakao och kaffe till en smet i en matberedare." },
+      { "step": "Tillsätt finhackade aprikoser och hälften av de hackade nötterna. Blanda." },
+      { "step": "Forma bollar och rulla dem i resten av de hackade nötterna. Låt stelna i kylen." }
+    ],
+    "servings": "Ca 20 st", "cookingTime": "PT5M", "prepTime": "PT20M", "totalTime": "PT25M",
+    "description": "<h3>En vuxnare chokladboll</h3><p>Ta dina <strong>chokladbollar</strong> till nästa nivå med detta recept. Kombinationen av <strong>nötter och torkad frukt</strong> ger en underbar smak och textur. Perfekt som påskgodis eller till fikat.</p>",
+    "recipeCategory": "Chokladägg & Praliner", "recipeCuisine": "Svensk", "keywords": "chokladbollar, nötter, torkad frukt, påskgodis, fika", "datePublished": "2025-03-05",
+    "ingredients": [
+      { "amount": "100", "unit": "g", "product": "rumsvarmt smör" },
+      { "amount": "3", "unit": "dl", "product": "havregryn" },
+      { "amount": "1", "unit": "dl", "product": "socker" },
+      { "amount": "3", "unit": "msk", "product": "kakao" },
+      { "amount": "2", "unit": "msk", "product": "kallt kaffe" },
+      { "amount": "100", "unit": "g", "product": "hasselnötter" },
+      { "amount": "50", "unit": "g", "product": "torkade aprikoser" }
+    ],
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "ratingCount": "1" }
+  },
+  {
+    "id": "citronfudge",
+    "name": "Krämig Citronfudge med Vit Choklad",
+    "slug": "citronfudge",
+    "elsaIntro": "<p>Denna fudge är den perfekta balansen mellan sött och syrligt. Den vita chokladens krämighet möter den friska smaken från färsk citron. Det är ett otroligt enkelt recept att lyckas med och resultatet blir en len och lyxig fudge som smälter i munnen. En ljus och fräsch favorit till påsk.</p>",
+    "image": [{ "id": "citronfudge-img", "url": "/images/recipes/citronfudge.jpg", "alt": "Perfekt skurna kuber av ljusgul citronfudge." }],
+    "steps": [
+      { "step": "Klä en form (ca 20x20 cm) med bakplåtspapper." },
+      { "step": "Smält vit choklad, kondenserad mjölk och smör över ett vattenbad." },
+      { "step": "Ta av från värmen och rör ner finrivet citronskal och citronsaft." },
+      { "step": "Häll smeten i formen och låt stelna i kylen i minst 3 timmar. Skär i bitar." }
+    ],
+    "servings": "Ca 40 bitar", "cookingTime": "PT15M", "prepTime": "PT10M", "totalTime": "PT3H25M",
+    "description": "<h3>Enkel och oemotståndlig fudge</h3><p>Detta recept på <strong>citronfudge</strong> är perfekt när du vill göra något snabbt, enkelt och otroligt gott. Den friska citrussmaken gör den till en favorit på påskbordet.</p>",
+    "recipeCategory": "Kola & Fudge", "recipeCuisine": "Internationell", "keywords": "citronfudge, fudge, lemon fudge, påskgodis, vit choklad", "datePublished": "2025-03-06",
+    "ingredients": [
+      { "amount": "300", "unit": "g", "product": "vit choklad" },
+      { "amount": "1", "unit": "burk", "product": "sötad kondenserad mjölk" },
+      { "amount": "30", "unit": "g", "product": "smör" },
+      { "amount": "2", "unit": "st", "product": "rivet skal och saft från citroner" }
+    ],
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.8", "ratingCount": "1" }
+  },
+  {
+    "id": "paskagg-arrak",
+    "name": "Hemgjorda Påskägg med Arrak & Choklad",
+    "slug": "paskagg-arrak",
+    "elsaIntro": "<p>Ingen påsk utan klassiska arraksägg! Denna hemgjorda version är oändligt mycket godare än den köpta. En krämig och smakrik fyllning med den karaktäristiska smaken av arrak, omsluten av ett krispigt lager mörk choklad. En riktig påskfavorit för vuxna smaker.</p>",
+    "image": [{ "id": "paskagg-arrak-img", "url": "/images/recipes/paskagg-arrak.jpg", "alt": "Hemgjorda påskägg med arrak, täckta med mörk choklad." }],
+    "steps": [
+      { "step": "Smula sönder kakresterna fint. Blanda med rumsvarmt smör och florsocker." },
+      { "step": "Tillsätt kakao och arrakspunch. Arbeta ihop till en fast och formbar massa." },
+      { "step": "Forma massan till små ägg och ställ dem i kylen för att stelna i minst 30 minuter." },
+      { "step": "Smält den mörka chokladen över ett vattenbad." },
+      { "step": "Doppa de kalla äggen i chokladen, låt överflödig choklad rinna av och lägg dem på ett bakplåtspapper för att stelna." }
+    ],
+    "servings": "Ca 15 st", "cookingTime": "PT15M", "prepTime": "PT20M", "totalTime": "PT1H5M",
+    "description": "<h3>En vuxen påskklassiker</h3><p>Recept på klassiska <strong>påskägg med arrak</strong>, precis som 'dammsugare' men i äggform. Ett enkelt och otroligt uppskattat påskgodis att göra själv.</p>",
+    "recipeCategory": "Marsipan & Mandelmassa", "recipeCuisine": "Svensk", "keywords": "påskägg, arrak, arraksägg, påskgodis, dammsugare", "datePublished": "2025-03-07",
+    "ingredients": [
+      { "amount": "150", "unit": "g", "product": "kakrester (t.ex. sockerkaka)" },
+      { "amount": "75", "unit": "g", "product": "rumsvarmt smör" },
+      { "amount": "1", "unit": "dl", "product": "florsocker" },
+      { "amount": "2", "unit": "msk", "product": "kakao" },
+      { "amount": "2-3", "unit": "msk", "product": "arrakspunch eller arraksessens" },
+      { "amount": "150", "unit": "g", "product": "mörk choklad att doppa i" }
+    ],
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "ratingCount": "1" }
+  }
+]

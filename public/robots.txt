@@ -1,0 +1,8 @@
+# public/robots.txt
+User-agent: *
+Allow: /
+
+# Disallow admin panel from being indexed
+Disallow: /iwings-admin
+
+Sitemap: https://påskgodisrecept.se/sitemap.xml

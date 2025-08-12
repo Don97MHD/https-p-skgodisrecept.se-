@@ -1,0 +1,27 @@
+{
+  "about": {
+    "title": "Om Elsa Lundström | bakatårta.se",
+    "headline": "En passion för hembakat",
+    "meta_description": "Lär känna Elsa Lundström, kvinnan, myten och legenden bakom bakatårta.se. Upptäck hennes filosofi om bakning, kärlek och svenska fikaklassiker.",
+    "body": "Hej och varmt välkommen! Jag heter Elsa Lundström, och det är jag som är den passionerade bagaren bakom varje recept du hittar här på bakatårta.se.\nMin resa började i ett litet kök i Småland, fyllt av doften av kardemummabullar och mormors sockerkaka. Det var där, vid hennes sida, som jag lärde mig att bakning inte bara handlar om att mäta mjöl och socker – det handlar om att skapa minnen, sprida glädje och visa kärlek.\nMin filosofi är enkel: de bästa bakverken kommer från hjärtat och är gjorda med äkta, ärliga råvaror. Jag tror på att förfina och perfektera våra svenska klassiker, att förstå *varför* en kaka blir saftig och en maräng blir seg. Här delar jag inte bara recept, utan också kunskapen och knepen som förvandlar en hemmabagare till en köksmästare. Jag hoppas kunna inspirera dig att knäcka några ägg, damma av mjölpåsen och skapa magi i ditt eget kök."
+  },
+  "contact": {
+    "title": "Kontakta Oss | bakatårta.se",
+    "headline": "Kontakta oss",
+    "meta_description": "Har du frågor, feedback eller vill du bara säga hej? Kontakta Elsa på bakatårta.se. Vi ser fram emot att höra från dig!",
+    "body": "Det enklaste sättet att nå mig är via e-post. Jag läser allt och försöker svara så snart jag kan!",
+    "email": "elsa@bakatarta.se"
+  },
+  "marangtartaGuide": {
+    "title": "Allt om Marängtårta - Recept & Guider | bakatårta.se",
+    "headline": "Marängtårtor – Den Stora Guiden",
+    "meta_description": "Din kompletta guide till marängtårta! Lär dig skillnaden mellan Pinocchiotårta och Pavlova, och hitta de bästa recepten för krispiga, sega och ljuvliga marängtårtor.",
+    "body": "Välkommen till den ultimata guiden för alla som älskar marängtårta! Här reder vi ut begreppen och dyker djupt ner i två älskade klassiker: den svenska Pinocchiotårtan och den eleganta Pavlovan. Även om båda bygger på maräng, är de fundamentalt olika. Pinocchiotårtan har en unik kombination av sockerkaksbotten och maräng som bakas tillsammans, medan Pavlovan stoltserar med rena, krispiga marängbottnar med ett segt, marshmallow-liknande inre.\nUtforska våra recept nedan för att bemästra båda varianterna och hitta din personliga favorit. Glad bakning!"
+  },
+  "langpannaGuide": {
+    "title": "Tårtor i Långpanna - Recept för Många | bakatårta.se",
+    "headline": "Tårta i Långpanna: Din Guide till Kalasbak",
+    "meta_description": "Hitta de bästa recepten på tårtor i långpanna. Perfekt när du ska baka till många för kalas, fest eller fika. Enkla och saftiga recept som alltid blir en succé.",
+    "body": "Att baka till många behöver inte vara krångligt! Långpannan är din bästa vän när det vankas kalas, studentfirande eller stort fika på jobbet. En tårta i långpanna är inte bara praktisk, den är också otroligt god och räcker till alla. Här har vi samlat våra favoritrecept på allt från klassiska bärtårtor och chokladkakor till den populära Pinocchiotårtan i långpanneformat.\nAlla recept är noggrant utformade för att ge ett saftigt och lyckat resultat varje gång. Låt oss fylla plåten med glädje!"
+  }
+}

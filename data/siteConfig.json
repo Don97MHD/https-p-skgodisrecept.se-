@@ -1,0 +1,9 @@
+{
+  "title": "Påskgodis Recept - Av Kocken Stefan Lindberg",
+  "description": "Din guide till det perfekta påskgodiset. Beprövade recept på klassiska och moderna påskfavoriter av kocken Stefan Lindberg.",
+  "siteUrl": "https://påskgodisrecept.se",
+  "language": "sv",
+  "blog": {
+    "postPerPage": 9
+  }
+}
