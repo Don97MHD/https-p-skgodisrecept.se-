@@ -1,1 +1,1 @@
-# https-p-skgodisrecept.se-
+npm run db:migrate
