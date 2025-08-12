@@ -1,0 +1,116 @@
+module.exports = {
+    root: true,
+    env: {
+        node: true,
+        es6: true,
+    },
+    parser: '@babel/eslint-parser',
+    parserOptions: {
+        requireConfigFile: false,
+        babelOptions: {
+            presets: ['@babel/preset-react'],
+        },
+    },
+    extends: ['airbnb', 'eslint:recommended', 'next'],
+    plugins: ['jsx-a11y', 'import'],
+    rules: {
+      
+        'linebreak-style': 0,
+        'indent': 0,
+        'quotes': 0,
+        'no-trailing-spaces': 0,
+        'operator-linebreak': 0,
+        'max-len': 0,
+        'eol-last': 0,
+        'no-multiple-empty-lines': 0,
+        'semi': 0,
+        'comma-dangle': 0,
+        'object-curly-newline': 0,
+        'arrow-parens': 0,
+        'implicit-arrow-linebreak': 0,
+        'function-paren-newline': 0,
+        'no-confusing-arrow': 0,
+        'space-infix-ops': 0,
+        'space-in-parens': 0,
+        'no-multi-spaces': 0,
+        'keyword-spacing': 0,
+        'space-before-blocks': 0,
+        'padded-blocks': 0,
+        'object-curly-spacing': 0,
+        'comma-spacing': 0,
+        'object-shorthand': 0,
+        'quote-props': 0,
+        'dot-notation': 0,
+        'prefer-const': 0,
+        'prefer-template': 0,
+        'newline-per-chained-call': 0,
+        'no-nested-ternary': 0, 
+        'arrow-body-style': 0, 
+
+        // React & JSX specific rules
+        'react/jsx-indent': 0,
+        'react/jsx-indent-props': 0,
+        'react/jsx-closing-bracket-location': 0,
+        'react/jsx-closing-tag-location': 0,
+        'react/jsx-one-expression-per-line': 0,
+        'react/jsx-props-no-multi-spaces': 0,
+        'react/jsx-first-prop-new-line': 0,
+        'react/self-closing-comp': 0,
+        'react/react-in-jsx-scope': 0,
+        'react/no-unescaped-entities': 0,
+        'react/prop-types': 0,
+        'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx'] }],
+        'react/destructuring-assignment': 0,
+        'react/jsx-props-no-spreading': 'off',
+        'react/button-has-type': 0,
+        'react/state-in-constructor': 0,
+        'react/jsx-fragments': 0,
+        'react/no-danger': 0,
+        'react/no-array-index-key': 0,
+        'react/function-component-definition': 0,
+        'react/jsx-curly-newline': 0,
+        'react/jsx-tag-spacing': 0,
+        'react/no-unstable-nested-components': 'warn',
+
+        // Hooks rules (important to keep)
+        'react-hooks/rules-of-hooks': 'error',
+        'react-hooks/exhaustive-deps': 'warn',
+
+        
+        'jsx-a11y/no-noninteractive-element-interactions': 0,
+        'jsx-a11y/click-events-have-key-events': 0,
+        'jsx-a11y/no-static-element-interactions': 0,
+        'jsx-a11y/label-has-associated-control': 'warn',
+        'jsx-a11y/iframe-has-title': 'warn',
+        'jsx-a11y/control-has-associated-label': 'warn',
+
+        // Import rules
+        'import/prefer-default-export': 0,
+        'import/order': 0,
+        'import/first': 0,
+        'import/newline-after-import': 0,
+
+        // General JS rules
+        'no-use-before-define': ['error', { variables: false }],
+        'global-require': 0,
+        'guard-for-in': 0,
+        'no-underscore-dangle': 0,
+        'no-unused-vars': 'warn',
+        'no-console': 'warn',
+        'no-restricted-globals': 0,
+        'no-alert': 'warn',
+        'no-restricted-syntax': 0,
+        'no-else-return': 0,
+        'no-await-in-loop': 0,
+        'no-plusplus': 0,
+        'no-promise-executor-return': 0,
+        'consistent-return': 0,
+        'jsx-a11y/label-has-associated-control': 'off', // أضف هذا
+    'react/no-unstable-nested-components': 'off', // وهذا مفيد أيضًا للمشكلة في AdminDashboard
+    'no-alert': 'off', // وهذا لتحذيرات confirm/alert
+        // Next.js specific
+        '@next/next/no-img-element': 'warn',
+        '@next/next/next-script-for-ga': 'warn',
+        
+    },
+};
