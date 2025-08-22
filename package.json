@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p 5019",
     "lint": "next lint",
     "db:migrate": "node ./scripts/migrate-to-mongo.js"
   },
